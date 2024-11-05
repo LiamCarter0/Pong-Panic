@@ -1,2 +1,5 @@
 # Pong-Panic
 2d game made for class. Influences are pong and rick breaker. 
+
+Changes
+There has been a pretty big change from what my original vision was. I originally wanted to have multiple levels and power-ups in the game but I changed the way that the brick breaker element works in my game so the multiple levels didn’t work out. Also I realized a lot of the power-ups that I had envisioned were just too hard to implement for me. I ended up going with bricks falling from the center of the screen for points, as well as bonus points for getting the balls past your opponent. I also implemented a multiball that starts when the game is halfway over and added a 60 second timer for short fun games. I decided to add a couple different game modes that add difficulty so that the game wouldn’t be boring too quickly. I also added screens for the title, how to play, difficulty, and end screen. Those changes make it feel like a real game for me and I think it feels a lot more complete with them in place. I also deviated from it being a 2 player game and decided to have payer 2 be an AI that tracks the ball.
